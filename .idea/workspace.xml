@@ -2,6 +2,276 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9888d8f-f782-45fb-844d-8fed936dbf71" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello09012020/AlberoEspressione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello09012020/Cruciverba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello09012020/Permutazioni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello09012020/Schema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello10112017/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello10112017/MatriceSparsa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello10112017/MatriceSparsaAstratta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello10112017/MatriceSparsaLinked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello10112017/MatriceSparsaMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello10112017/Matrici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello11092019/RiferimentiIncorciati.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello11092019/Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello11092019COPIA/RiferimentiIncrociati.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello11092019COPIA/Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello12072017/BigInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello12072017/Mat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello12072017/Matrici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello17072015/AlberoEspressione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello17072015/ComplementoA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello17072015/Insieme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello17072015/InsiemeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello17072015/InsiemeAstratto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello17072015/InsiemeConcatenato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello17072015/InsiemeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello17072015/InsiemeOrdinato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello17072015/InsiemeOrdinatoAlbero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello17072015/InsiemeOrdinatoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello17072015/InsiemeOrdinatoAstratto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello17072015/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello19022019_12CFU/ABR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello19022019_12CFU/MergeIte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello19022019_12CFU/Topologia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello201801/AlberoBinarioDiRicerca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello201801/MatriceSparsa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello201801/MatriceSparsaAstratta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello201801/MatriceSparsaLinked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello201801/Matrici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello201803COPIA/Labirinto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello2020_05/Testo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello21062019_12CFU/ABR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello21062019_12CFU/EspressioneAritmetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello23072019_12CFU/LetturaFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello23072019_12CFU/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello23072019_12CFU/ListaConcatenata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello23072019_12CFU/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello23072019_12CFU/SommaDiSottoInsiemiv2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello23072019_12CFU/SommaDiSottoinsiemi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello23072019_12CFU/SortFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello23072019_12CFU/SortFileOnCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello24012014/Esercizio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello24012014/Esercizio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello24012014/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello2501_2019/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello2501_2019/AlberoDiEspressione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello2501_2019/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello2501_2019/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello2501_2019/TotoCalcio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello27022017/AlberoBinarioDiRicerca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello27022017/Elenco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello27022017/ElencoAstratto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello27022017/ElencoCollezione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello27022017/ElencoLinkato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello27022017/Esercizio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello27022017/Impiegato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello27022017/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello27022017/Stanza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello27022017/labirinto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017/AbstractPhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017/LinkedPhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017/PhoneBookCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017/TreeChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017COPIA/AbstractPhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017COPIA/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017COPIA/LinkedPhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017COPIA/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017COPIA/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017COPIA/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017COPIA/PhoneBookCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28022017COPIA/TreeChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello28062018/labrinito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello30012017/AbstractSortedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello30012017/LinkedSortedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello30012017/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello30012017/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello30012017/SortedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/Appello30012017/SortedSetFrameWorkJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimo/Attenzione.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimo/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimo/ListaAstratta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimo/ListaConcatenata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimo/ListaConcatenataJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimo/Raggruppamenti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimo/ValutazioneEspressioneRPN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimo28062018/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimo28062018/Giustifica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimo28062018/Programma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimoCopia/BackTracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimoCopia/EspressioneAritmetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimoCopia/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimoCopia/ListaAstratta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimoCopia/ListaConcatenata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/APPELLI/AppelloAnonimoCopia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/ABR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/AbstractStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/AbstractVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/AlberoEspressione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/BoundedBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/Cramer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/Gauss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/GaussDiagonale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/ListConcatenataOrdinata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/ListRic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/MergeFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/Prova.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/SelectionSortEsterno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/Sistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/StackArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/StackConcatenato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/TorriDiHinaoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Orale/VectorArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/agendina/Agendina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/agendina/AgendinaAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/agendina/AgendinaAstratta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/agendina/AgendinaGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/agendina/AgendinaGUI2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/agendina/AgendinaLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/agendina/AgendinaMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/agendina/AgendinaSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/agendina/AgendinaVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/agendina/GestioneAgendina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/agendina/GestioneAgendinaVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/agendina/Nominativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/backtracking/Backtracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/backtracking/NRegine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/backtracking/SommaDiSottinsiemi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/concorrenza/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/concorrenza/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/concorrenza/Processo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/concorrenza/Risorsa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/contatori/Contatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/contatori/ContatoreModulare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/date/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/eratostene/Crivello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/eratostene/CrivelloAstratto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/eratostene/CrivelloSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/esempi/CiProvo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/esempi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/esempi/SEL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/esempi/TestIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/figure/Cerchio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/figure/Fatto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/figure/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/figure/Rombo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/file/AggiornamentoSelettivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/file/Copia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/file/Crea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/file/CreaObjectFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/file/Crittografia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/file/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/file/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/file/InsertionSortFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/file/MergeFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/file/ObjectFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/file/ObjectFileSelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/file/SelectionSortEsterno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/fpfpq/FpFpq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/fpfpq/Statistica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/fpfpq/StatisticaGrafo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/fpfpq/StatisticaMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/geometria/Disco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/geometria/FiguraPiana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/geometria/FiguraSolida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/geometria/Punto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/geometria/Sfera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/geometria/Triangolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/giochi/Fatto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/giochi/GiocoDellaVita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/giochi/MonteCarloPiGreco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/Arco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/ArcoPesato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/Grafi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/Grafo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/GrafoAstratto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/GrafoNonOrientato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/GrafoNonOrientatoAstratto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/GrafoNonOrientatoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/GrafoNonOrientatoPesato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/GrafoNonOrientatoPesatoAstratto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/GrafoNonOrientatoPesatoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/GrafoOrientato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/GrafoOrientatoAstratto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/GrafoOrientatoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/GrafoOrientatoPesato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/GrafoOrientatoPesatoAstratto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/GrafoOrientatoPesatoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/GrafoPesato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/grafo/Peso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/iodialog/IODialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/lambda/Auxiliary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/lambda/ConstructorAsMethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/lambda/LambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/lambda/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/lista_di_interi/ListaDiInteri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/nio/FileSearching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/polinomi/Monomio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/polinomi/Polinomio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/polinomi/PolinomioAstratto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/polinomi/PolinomioLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/polinomi/PolinomioSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/regex/Classificatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/regex/Classificatore2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/regex/RegexExpr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/regex/RiconoscitoreEspressione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/Bottoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/Calcolatrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/Cambio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/CambioFT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/CambioFTL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/CurveDiKoch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/FinestraChiudibile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/FinestraChiudibile0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/FinestraChiudibile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/FinestraChiudibile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/FinestraChiudibile3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/FinestraChiudibile4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/FinestraChiudibile5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/FinestraConRepaint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/FinestraConRepaintEMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/JGraf_GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/MouseChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/swing/MouseChecker2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/ABR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/AbstractVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/AlberoEspressione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/ArrayVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/BoundedBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/CollezioneOrdinata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/CollezioneOrdinataAstratta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/GestoreTesto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/ListaOrdinataConcatenata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/Mat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/StackArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/StackAstratto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/StackConcatenato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/util/Vector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,13 +294,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "true",
     "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
     "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
     "WebServerToolWindowPanel.toolwindow.show.date": "false",
     "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
     "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "last_opened_file_path": "D:/Progetti/IntelliJidea",
+    "last_opened_file_path": "D:/Progetti/IntelliJidea/AppelliTriennale/src/poo",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -38,6 +309,10 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Progetti\IntelliJidea\AppelliTriennale\src\poo" />
+      <recent name="D:\Progetti\IntelliJidea\AppelliTriennale\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Progetti\IntelliJidea\AppelliTriennale\src" />
       <recent name="D:\Progetti\IntelliJidea\AppelliTriennale\src\RetiDiCalcolatori\SISOP\Traccia_Visualizzatore" />
@@ -56,6 +331,7 @@
       <updated>1658744209117</updated>
       <workItem from="1658744213355" duration="297000" />
       <workItem from="1658748478073" duration="1069000" />
+      <workItem from="1658749579876" duration="620000" />
     </task>
     <task id="LOCAL-00001" summary="Aggiunta Appelli Sisop">
       <created>1658749156687</created>
@@ -71,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658749281383</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update&#10;Aggiunti Appelli di Reti di Calcolatori">
+      <created>1658749697118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658749697118</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +374,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aggiunta Appelli Sisop" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Update&#10;Aggiunti Appelli di Reti di Calcolatori" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update&#10;Aggiunti Appelli di Reti di Calcolatori" />
   </component>
 </project>
