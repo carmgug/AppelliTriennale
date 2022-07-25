@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9888d8f-f782-45fb-844d-8fed936dbf71" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppelliTriennale.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/20180503_Traccia_Esonero_A-L.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/20190429_Traccia_Esonero_M-Z.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/Scan0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/Scan0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/WhatsApp Image 2021-08-29 at 09.52.13 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/WhatsApp Image 2021-08-29 at 09.52.13.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/WhatsApp Image 2021-08-29 at 09.52.14 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/WhatsApp Image 2021-08-29 at 09.52.14 (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/WhatsApp Image 2021-08-29 at 09.52.14.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/traccia_20110908_casello.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/traccia_20140625_laghetto.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/traccia_20140625_laghetto_SEMPLIFICATA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/traccia_20141105_muratori.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/traccia_20141105_muratori_SEMPLIFICATA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/traccia_20150907_aziendaAgricola.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/traccia_20150907_aziendaAgricola_Semplificata.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/traccia_20160126_snowboarder.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/traccia_20160413_piscinaCorsie.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/traccia_20170918_funivia.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/traccia_20170918_funivia_SEMPLIFICATA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/traccia_20180622-Trenino-Semplificata.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/FilePdf/traccia_20180622-Trenino.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_AziendaAgricola/Adetto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_AziendaAgricola/AziendaAgricola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_AziendaAgricola/AziendaAgricolaSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_AziendaAgricola/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_BarMod/Bar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_BarMod/BarSemafori.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_BarMod/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_BarMod/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Boccaccio/Addetto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Boccaccio/Bambino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Boccaccio/Boccaccio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Boccaccio/BoccaccioSem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Boccaccio/sisOp270_2013-09-10_boccaccio.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Casello/Casello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Casello/CaselloLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Casello/Veicolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Cementificio/Addetto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Cementificio/Cementificio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Cementificio/CementificioSem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Cementificio/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Cioccolatini/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Cioccolatini/Scatola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Cioccolatini/ScatolaSp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Dischi/Controllore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Dischi/ControlloreLC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Dischi/Processi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Firenze/Guida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Firenze/TourFirenze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Firenze/TourFirenzeLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Firenze/Turista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Funivia/Funivia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Funivia/FuniviaSem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Funivia/Pilota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Funivia/Turista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Giugno_2021/Guida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Giugno_2021/TourFirenze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Giugno_2021/TourFirenzeLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Giugno_2021/Turista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Laghetto/addetto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Laghetto/laghetto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Laghetto/laghettoLC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Laghetto/laghettoSem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Laghetto/pescatori.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Muratori/Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Muratori/CasaSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Muratori/Esercizio _1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Muratori/Muratore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Palazzo/Operai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Palazzo/Palazzo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Palazzo/PalazzoSem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_PallaCanestro/Arbitro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_PallaCanestro/Giocatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_PallaCanestro/Partita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_PallaCanestro/PartitaSem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Piscina/Istruttore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Piscina/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Piscina/Piscina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Piscina/PiscinaSEM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Pizzeria/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Pizzeria/Pizzaiolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Pizzeria/Pizzeria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Pizzeria/PizzeriaLC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Pizzeria/PizzeriaSem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_SuperMercato/Casse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_SuperMercato/CasseLC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_SuperMercato/CasseSem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_SuperMercato/Cassiere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_SuperMercato/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Tesoro/Cercatore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Tesoro/MappaDelTesoro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Tesoro/MappaDelTesoroLC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/Traccia_Tesoro/MappaDelTesoroSem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RetiDiCalcolatori/SISOP/vari_esami.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CQoWxxC76oOZ1S2Dsh82G6zwaT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Progetti/IntelliJidea&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Progetti\IntelliJidea\AppelliTriennale\src\RetiDiCalcolatori\SISOP\Traccia_Visualizzatore" />
+      <recent name="D:\Progetti\IntelliJidea\AppelliTriennale\src\RetiDiCalcolatori\SISOP\Traccia_Trenino" />
+      <recent name="D:\Progetti\IntelliJidea\AppelliTriennale\src\RetiDiCalcolatori\SISOP\Traccia_TreAule" />
+      <recent name="D:\Progetti\IntelliJidea\AppelliTriennale\src\RetiDiCalcolatori\SISOP\Traccia_Tesoro" />
+      <recent name="D:\Progetti\IntelliJidea\AppelliTriennale\src\RetiDiCalcolatori\SISOP\Traccia_SuperMercato" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9888d8f-f782-45fb-844d-8fed936dbf71" name="Changes" comment="" />
+      <created>1658744209117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658744209117</updated>
+      <workItem from="1658744213355" duration="297000" />
+      <workItem from="1658748478073" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
